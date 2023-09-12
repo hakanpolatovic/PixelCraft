@@ -1,10 +1,7 @@
 Java Game - PixelCraft
 Welcome to the Java Game project! This game is designed to serve as an educational tool for those new to Java programming, providing practical examples of fundamental coding concepts. Below, you'll find an overview of the game's features and how to get started.
 
-Table of Contents
-Introduction
-Features
-Usage
+
 
 This Java game is a simple yet educational project that utilizes the Graphics2D library to render objects. It incorporates fundamental programming concepts such as data structures and functions, making it an ideal resource for individuals new to Java programming. The game consists of two maps represented as arrays, where each index holds a numerical value representing a specific tile type, such as sand (1) or river (2).
 
